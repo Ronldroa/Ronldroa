@@ -49,7 +49,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux"alt="Linux" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="Mysql"alt="Mysql" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" title="Spring"alt="Spring" width="40" height="40"/>&nbsp;
-
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
 
 </div>
 
