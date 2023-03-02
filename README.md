@@ -56,4 +56,4 @@
 
 ### 📊 My Stats :
 
-   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ronldroa&theme=transparent&show_icons=true&bg_color=000&text_color=40A6FFFF&icon_color=12DD70FF&title_color=12DD70FF)
+   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ronldroa&theme=transparent&show_icons=true&bg_color=027&text_color=40A6FFFF&icon_color=12DD70FF&title_color=12DD70FF)
