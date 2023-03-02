@@ -56,10 +56,4 @@
 
 ### 📊 My Stats :
 
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Ronldroa&theme=chartreuse-dark&date_format=j%2Fn%5B%2FY%5D&sideNums=FFFFFF&sideLabels=40A6FF&ring=FF0000&fire=FF0000&dates=12DD70)](https://git.io/streak-stats)
-
-  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ronldroa&show_icons=true&bg_color=000&text_color=40A6FFFF&icon_color=12DD70FF&title_color=12DD70FF)
-
-
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ronldroa&bg_color=000&text_color=12DD70FF&title_color=40A6FFFF)](https://github.com/anuraghazra/github-readme-stats)
-
+   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
